@@ -12,7 +12,7 @@ Node.js library for the official Zipato REST API. This package requires an accou
 ## Installation
 
 ```sh
-npm install zipato --save
+npm install @eldzee/zipato --save
 ```
 
 ## Usage
@@ -20,7 +20,7 @@ See complete command line reference at https://my.zipato.com/zipato-web/api/ (re
 
 ## Examples
 ```javascript
-var zipato = require('zipato')
+var zipato = require('@eldzee/zipato')
 var crypto = require('crypto')
 
 var password = "YOUR_PASSWORD"
