@@ -1,6 +1,6 @@
 {
   "name": "zipato",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "Espen Mjøs <espen.mjos@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/espenmjos/zipato"
+    "url": "https://github.com/eldzee/zipato"
   },
   "license": "ISC",
   "dependencies": {
